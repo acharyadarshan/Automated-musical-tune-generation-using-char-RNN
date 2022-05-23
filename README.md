@@ -15,8 +15,6 @@ https://drive.google.com/file/d/11DzKAtFL10i7-Z0q7lH1GwDnRFZkI8po/view?
 A musical tune is a combination of sounds in time through the elements of melody, harmony, rhythm, and timbre. Music, like language, is a method of communication in which a series of notes can convey a variety of emotions. One important point to remember is that music must be both expressive and precise. Classical music, for example, is noted for its careful structure and emotional impact. Beginners find it difficult to compose musical tunes because they must first learn the "language" of music, such as time signatures and how to keep unit beats steady throughout a song while introducing creative uniqueness.
 We investigate if deep learning can be used to model this dynamic musical structure and effects.  Nowadays, the music generation is quite crucial. It has a wide range of applications. Musicians and artists build on the machine's output to create their creative work. Software-generated music or art is sometimes marketed by the companies or individuals that created it. They can be licensed to businesses and retailers for use in advertising, retail music, and so forth.
 
-Image
-
 #### ABC notation
 
 It uses alphanumeric Character to represent music. ABC notation is a simple but powerful ASCII musical notation format. ABC notation consists of 2 parts: first metadata and second actual music representation.
@@ -24,18 +22,22 @@ Metadata: Contains the Title(T), Note length(L), Key and Clef(K) and so on. But 
 
 Music: Contain information about actual music.
 
+![abc](https://user-images.githubusercontent.com/67474080/169774597-fdb9e6c5-af3f-4a40-b303-b0c0d9e532cb.png)
 
 
 Image
 
 #### Midi Format
 
+![midi format](https://user-images.githubusercontent.com/67474080/169775222-bd3d10ee-3b9c-43ab-9b84-bea3a1d99cf3.png)
 
 IT Uses Cord name, key and beats to represent music
 
 Image
 
 #### Sheet Music
+
+![sheet music](https://user-images.githubusercontent.com/67474080/169775262-227390d2-8f12-44f3-9b71-8c4c9d7c2951.png)
 
 Sheet music is a type of musical notation that is handwritten or printed and includes musical symbols to describe the pitches, rhythms, and chords of a song or instrumental musical composition. 
 
