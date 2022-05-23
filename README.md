@@ -235,8 +235,10 @@ Does not suffer from exploding and vanishing gradients.
 Language models can be operated at the character level, n-gram level,   sentence level or even paragraph level.
 
 ![Underlying structure of a single LSTM cell](https://user-images.githubusercontent.com/67474080/169770697-19b3705a-5d30-4074-a691-022bfb633bc5.png)
+**Underlying structure of a single LSTM cell**
 
 ![Illustration of multiple LSTM cells to form a network](https://user-images.githubusercontent.com/67474080/169770745-13b5b7de-4c4a-4a22-8c86-3ae29fbb482c.png)
+**Illustration of multiple LSTM cells to form a network**
 
 
 #### Workflow
@@ -265,9 +267,9 @@ The batch size, sequence length, and vocabulary size inputs are passed to the mo
 
 ![Next character probability determination](https://user-images.githubusercontent.com/67474080/169771366-f5dda257-23ed-4676-821a-197c27d4734a.png)
 ![Next char A](https://user-images.githubusercontent.com/67474080/169771404-3fa474d0-a21d-4c3e-9016-53067b15839b.png)
-Therefore, the next character is: A
+**Therefore, the next character is: A**
 ![Next char B](https://user-images.githubusercontent.com/67474080/169771435-20459c1d-61f6-48cf-958b-ae8522a39c3c.png)
-Therefore, the next character is:  “
+**Therefore, the next character is:  “**
 
 
 A limitation of the iterative feedforward strategy on an RNN, is that generation is deterministic. Indeed, a neural network is deterministic . As a consequence, feedforwarding the same input will always produce the same output. As the generation of the next note, the next note, etc., is deterministic, the same seed note will lead to the same generated series  of notes .  
