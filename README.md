@@ -1,8 +1,5 @@
-# Automated-musical-tune-generation-using-char-RNN
-Building a media player that helps to play musical tunes by predicting a sequence of notes as events using Char RNN principles
 
-
-# Automated Musical Tune Generation using char RNN
+# Automated Musical Tune Generation using char RNN [In collaboration with Bishal Paudel and Badal Tripathi]
 
 Demo
 
