@@ -1,7 +1,7 @@
 
 # Automated Musical Tune Generation using char RNN [In collaboration with Bishal Paudel and Badal Tripathi]
 
-Demo
+[Demo](https://youtu.be/NDuJbYVpBW0)
 
 https://drive.google.com/file/d/11DzKAtFL10i7-Z0q7lH1GwDnRFZkI8po/view?
 
