@@ -263,7 +263,10 @@ The batch size, sequence length, and vocabulary size inputs are passed to the mo
 
 #### Next character probability determination
 
-Insert 3 images
+![Next character probability determination](https://user-images.githubusercontent.com/67474080/169771366-f5dda257-23ed-4676-821a-197c27d4734a.png)
+![Next char A](https://user-images.githubusercontent.com/67474080/169771404-3fa474d0-a21d-4c3e-9016-53067b15839b.png)
+![Next char B](https://user-images.githubusercontent.com/67474080/169771435-20459c1d-61f6-48cf-958b-ae8522a39c3c.png)
+
 
 A limitation of the iterative feedforward strategy on an RNN, is that generation is deterministic. Indeed, a neural network is deterministic . As a consequence, feedforwarding the same input will always produce the same output. As the generation of the next note, the next note, etc., is deterministic, the same seed note will lead to the same generated series  of notes .  
 Sampling Fortunately, will solve this issue.  The assumption is that the output representation of the melody is one-hot encoded. In other words, the output representation  is  of abc  type  with  87  possible  characters,  the  output activation layer  is SoftMax and generation is modeled as a classification task. 
