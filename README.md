@@ -285,7 +285,10 @@ Sampling Fortunately, will solve this issue.  The assumption is that the output 
 
 #### Model metrics 
 
-four images
+![Epoch vs Accuracy Loss plot](https://user-images.githubusercontent.com/67474080/169775526-6e3e30ba-2ab7-4df2-b38b-3f5e93e0beb8.gif)
+![Testing different optimizers](https://user-images.githubusercontent.com/67474080/169775546-c47e9d44-ff89-4bce-a365-08025913fde7.png)
+![Testing different number of LSTM layers](https://user-images.githubusercontent.com/67474080/169775590-8898b3dc-5453-4614-b1f9-0739e0567541.png)
+![Testing different number of dropout values](https://user-images.githubusercontent.com/67474080/169775604-9dc148b6-150b-4620-9f4d-a33e1ddf4168.png)
 
 #### Epilogue
 
