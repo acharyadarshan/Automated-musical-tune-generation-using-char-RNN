@@ -3,10 +3,6 @@
 
 Demo
 
-
-
-
-
 https://drive.google.com/file/d/11DzKAtFL10i7-Z0q7lH1GwDnRFZkI8po/view?
 
 #### Objectives
@@ -210,8 +206,7 @@ FA df|ge dc|dB AG|FE D2 :|
 Each data point has different characters length. But are a total of 87 unique characters in for musical representation in every data point. Each unique character has been allocated a numerical index. We've developed a dictionary in which the key corresponds to a character and the value is the character's index. We've also made the polar opposite, where the key belongs to the index and the value is the character for ease of recognition.
 
 
-***Image***
-
+![unique_chars](https://user-images.githubusercontent.com/67474080/169769684-acd3fcfa-f3e6-4ba0-9251-b0e24beaeb16.png)
 
 Data is fed into batches. We'll feed a batch of character sequences into our model at once. First, we must create our batches. The following parameters have been set:
 Batch size = 16 Sequence Length= 64, Input.txt length = 129,665, Number of unique characters = 87
