@@ -305,14 +305,14 @@ Ouput using external web application abcjs.net
 
 #### References
 
-[1]Andrej karpathy. “The Unreasonable Effectiveness of Recurrent Neural Networks”, May 2021
-[2]  J. McCormack, “Grammar based music composition, Complex systems”, Chapter 96, 1996
-[3]  K. Dongwoo, W. Christian, “Computer Assisted Composition with Recurrent Neural Network”, 2018
-[4]  S Madjiheurem, L Qu, C Walder, “Chord2vec: Learning musical chord embeddings - Proceedings of the constructive machine learning”, 2016
-[5] O. D. Van, A. Dieleman, Z. Sander, S. Heiga, K. Vinyals, A. Graves, N. Kalchabrenner, A. Senior, K. Kavukcuogl, “WaveNet: A Generative Model for Raw Audio, 1609”, 2016
-[6] Payne, Christine. MuseNet: OpenAI, Available at: openai.com/blog/musenet. 25 Apr. 2019
-[7] C. Dalitz, “ABC User's Guide Book”, Apr. 2022
-[8] L. Richardson, Beautiful soup Documentation Release 4.4.0, 24 Dec. 2019
+[1]Andrej karpathy. “The Unreasonable Effectiveness of Recurrent Neural Networks”, May 2021  
+[2]  J. McCormack, “Grammar based music composition, Complex systems”, Chapter 96, 1996  
+[3]  K. Dongwoo, W. Christian, “Computer Assisted Composition with Recurrent Neural Network”, 2018  
+[4]  S Madjiheurem, L Qu, C Walder, “Chord2vec: Learning musical chord embeddings - Proceedings of the constructive machine learning”, 2016  
+[5] O. D. Van, A. Dieleman, Z. Sander, S. Heiga, K. Vinyals, A. Graves, N. Kalchabrenner, A. Senior, K. Kavukcuogl, “WaveNet:A Generative Model for Raw Audio, 1609”,2016   
+[6] Payne, Christine. MuseNet: OpenAI, Available at: openai.com/blog/musenet. 25 Apr. 2019  
+[7] C. Dalitz, “ABC User's Guide Book”, Apr. 2022  
+[8] L. Richardson, Beautiful soup Documentation Release 4.4.0, 24 Dec. 2019  
 
 
 
