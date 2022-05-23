@@ -234,6 +234,11 @@ Quickly adaptable to new data
 Does not suffer from exploding and vanishing gradients.  
 Language models can be operated at the character level, n-gram level,   sentence level or even paragraph level.
 
+![Underlying structure of a single LSTM cell](https://user-images.githubusercontent.com/67474080/169770697-19b3705a-5d30-4074-a691-022bfb633bc5.png)
+
+![Illustration of multiple LSTM cells to form a network](https://user-images.githubusercontent.com/67474080/169770745-13b5b7de-4c4a-4a22-8c86-3ae29fbb482c.png)
+
+
 #### Workflow
 The basic principle in generation of musical notes   
 • select some seed information as the first item (e.g., the first note of a melody);   
