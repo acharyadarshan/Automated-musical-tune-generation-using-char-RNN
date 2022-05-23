@@ -295,15 +295,13 @@ As we used RNN technique, the first character for the output can be given. It sh
 
 ![Input](https://user-images.githubusercontent.com/67474080/169776375-3e9a598a-7a1a-42ba-a153-97a6f7343702.png)
 
-
+Ouput using inbuilt package
 ![Output using inbuilt package](https://user-images.githubusercontent.com/67474080/169776417-c8993e45-9528-4fe3-9743-39ee81df8c43.png)
 
-Ouput using inbuilt package
-
-
+Ouput using external web application abcjs.net
 ![Output using abcjs net](https://user-images.githubusercontent.com/67474080/169776441-d545213f-6422-4bd7-8c5f-06374b615d62.png)
 
-Ouput using external web application abcjs.net
+
 
 
 
