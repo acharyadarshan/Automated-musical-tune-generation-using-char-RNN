@@ -290,18 +290,20 @@ Sampling Fortunately, will solve this issue.  The assumption is that the output 
 ![Testing different number of LSTM layers](https://user-images.githubusercontent.com/67474080/169775590-8898b3dc-5453-4614-b1f9-0739e0567541.png)
 ![Testing different number of dropout values](https://user-images.githubusercontent.com/67474080/169775604-9dc148b6-150b-4620-9f4d-a33e1ddf4168.png)
 
-#### Epilogue
+#### Input
+As we used RNN technique, the first character for the output can be given. It should be noted that the first character can be random but we can always give freedom to user to choose the first musical character. Moreover, input interface can contain input field to mention the epoch of model to be used for generating the music. As the epoch goes higher the error tends to be lower but takes more computational power. Finally, the length of the piece of music can be manually set. The input interface is similar to below:
+
+![Input](https://user-images.githubusercontent.com/67474080/169776375-3e9a598a-7a1a-42ba-a153-97a6f7343702.png)
 
 
+![Output using inbuilt package](https://user-images.githubusercontent.com/67474080/169776417-c8993e45-9528-4fe3-9743-39ee81df8c43.png)
+
+Ouput using inbuilt package
 
 
+![Output using abcjs net](https://user-images.githubusercontent.com/67474080/169776441-d545213f-6422-4bd7-8c5f-06374b615d62.png)
 
-
-
-
-
-
-
+Ouput using external web application abcjs.net
 
 
 
